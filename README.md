@@ -50,3 +50,7 @@ $ pip install pyqt5filedialogs
 ## Dependencies
 
 * `PySide2` - Qt5 bindings for Python.
+
+## License
+
+This project is licensed under the [MIT license](./LICENSE.txt).

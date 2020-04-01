@@ -7,7 +7,7 @@ LONG_DESCRIPTION = BASE_DIR.joinpath('README.md').read_text()
 
 setup(
     name="pyqt5-file-dialogs",
-    version="1.0.0",
+    version="1.0.1",
     description="Interactive file selection prompts using Qt5.",
     long_description=LONG_DESCRIPTION,
     long_description_content_type="text/markdown",
